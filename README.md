@@ -1,2 +1,11 @@
-# cloud-computing-course
-Repository for course activities, notes, and projects in Cloud Computing
+Name:[Bradley A. Bola]
+
+Course/Section:[CCM 101-BSIT 4K]
+
+Instructor:[JENKIELYN TORRES]
+
+School Year: [2026-2027]
+
+Reflection Paper 1.1Google Drive – I use it to save my files online, keep them backed up, and share them with others whenever needed. Facebook Messenger – I rely on it to communicate with family and friends through messages, voice calls, and video calls. Canva – I use this platform to design presentations, posters, and other creative projects using its online editing tools. 2.Google Drive Service Model: Software as a Service (SaaS) Deployment Model: Public Cloud Reason: Google Drive is an online storage platform that allows users to save, organize, and share files through the internet. Google manages the software and infrastructure, so users only need to sign in and use the service. Facebook Messenger Service Model: Software as a Service (SaaS) Deployment Model: Public Cloud Reason: Facebook Messenger is a cloud-based messaging application that enables users to send messages, make calls, and share media. Meta handles all system maintenance, while users simply access the app online. Canva Service Model: Software as a Service (SaaS) Deployment Model: Public Cloud Reason: Canva is an internet-based graphic design tool that lets users create and edit designs without installing software. The platform is hosted and maintained by Canva, making it accessible from any device with an internet connection. 3.Version control plays an important role in cloud infrastructure because it keeps a complete record of changes made to code, configuration files, and cloud settings. It allows developers to compare different versions, recover previous work if needed, and maintain consistency throughout the project. This helps avoid mistakes that could affect cloud systems or services.
+
+GitHub makes collaboration easier by giving teams a shared platform to manage their projects. Developers can work on separate branches, review changes through pull requests, and combine updates only after they have been checked. It also maintains a history of every modification, making it simple to see what was changed, who made the change, and when it happened. These features improve teamwork, reduce the chance of errors, and make managing cloud resources more efficient.
