@@ -8,7 +8,7 @@ A Linux Playground was launched using KillerCoda. The following commands were us
 
 | Information | Linux Command | Result |
 | :--- | :--- | :--- |
-| Operating System | `cat /etc/os-release` | Ubuntu 24.04 LTS |
+| Operating System | `cat /etc/os-release` | Ubuntu 24.04.4 LTS |
 | CPU Information | `lscpu` | 1 CPU, Intel Xeon CPU @ 2.0 GHz |
 | Memory | `free -h` | 1.9 GB RAM |
 | Disk Space | `df -h` | 19 GB total, 10 GB available |
