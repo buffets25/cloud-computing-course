@@ -18,7 +18,8 @@ A Linux Playground was launched using KillerCoda. The following commands were us
 ### Terminal Screenshots
 
 #### Operating System
-![Operating System](path/to/operating-system-screenshot.png)
+![Uploading image.png…]()
+
 
 #### CPU Information
 ![CPU Information](path/to/cpu-information-screenshot.png)
