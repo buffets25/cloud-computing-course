@@ -30,7 +30,8 @@ A Linux Playground was launched using KillerCoda. The following commands were us
 
 
 #### Memory
-![Memory](path/to/memory-screenshot.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5097afe7-05f5-4373-9eb2-5a5b1c32a999" />
+
 
 #### Disk Space
 ![Disk Space](path/to/disk-space-screenshot.png)
