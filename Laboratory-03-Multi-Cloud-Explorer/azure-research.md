@@ -1,4 +1,4 @@
-# Microsoft Azure
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/6199a8f0-9ae6-4f74-bb92-bb6089815e79" /># Microsoft Azure
 
 ---
 
@@ -20,7 +20,7 @@ The **Azure Portal** acts as the primary web dashboard, allowing administrators 
 
 #### Screenshot
 
-![Uploading image.png…]()
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/51e0115b-d401-45a3-8e73-8a830039d464" />
 
 
 ---
