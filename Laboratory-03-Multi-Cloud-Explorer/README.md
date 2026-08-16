@@ -1,29 +1,49 @@
 # CCM101-BRADLEY A. BOLA BSIT 4-K
+# Mark Vincent Omaoib BSIT 4-K
 
-Checkpoint 7 – Continue Your Linux Investigation
+## Checkpoint 7 – Continue Your Linux Investigation
 
-Linux Server Investigation
+### Linux Server Investigation
 
-A Linux Playground was launched using KillerCoda. The following commands were used to identify the server information.
-InformationLinux CommandResultOperating Systemcat /etc/os-releaseUbuntu 24.04.4 LTSCPU Informationlscpu1 CPU, Intel Xeon E312xx @ 2.0 GHzMemoryfree -h1.9 GiB RAMDisk Spacedf -h19 GB total, 13 GB available
-Terminal Screenshots
+A Linux Playground was launched using KillerCoda. The following commands were used to identify the server information:
 
-Operating System
+| Information | Linux Command | Result |
+| :--- | :--- | :--- |
+| Operating System | `cat /etc/os-release` | Ubuntu 24.04 LTS |
+| CPU Information | `lscpu` | 1 CPU, Intel Xeon CPU @ 2.0 GHz |
+| Memory | `free -h` | 1.9 GB RAM |
+| Disk Space | `df -h` | 19 GB total, 10 GB available |
 
+---
 
-CPU Information
+### Terminal Screenshots
 
+#### Operating System
+![Operating System](path/to/operating-system-screenshot.png)
 
-Memory
+#### CPU Information
+![CPU Information](path/to/cpu-information-screenshot.png)
 
+#### Memory
+![Memory](path/to/memory-screenshot.png)
 
-Disk Space
+#### Disk Space
+![Disk Space](path/to/disk-space-screenshot.png)
 
+---
 
-Cloud Migration
+### Cloud Migration
 
 If this Linux server were migrated to the cloud, it could be hosted using virtual machine services from AWS, Azure, or GCP.
-Cloud ProviderServiceDescriptionAWSAmazon EC2Hosts Linux servers as virtual machines in AWS.AzureAzure Virtual MachinesHosts Linux servers as virtual machines in Microsoft Azure.GCPGoogle Compute EngineHosts Linux servers as virtual machines in Google Cloud.
-Conclusion
+
+| Cloud Provider | Service | Description |
+| :--- | :--- | :--- |
+| AWS | Amazon EC2 | Hosts Linux servers as virtual machines in AWS. |
+| Azure | Azure Virtual Machines | Hosts Linux servers as virtual machines in Microsoft Azure. |
+| GCP | Google Compute Engine | Hosts Linux servers as virtual machines in Google Cloud. |
+
+---
+
+### Conclusion
 
 The Linux server can be migrated to AWS, Azure, or GCP. Amazon EC2, Azure Virtual Machines, and Google Compute Engine can all host Linux-based servers. The best platform would depend on cost, performance, scalability, and the organization's requirements.
