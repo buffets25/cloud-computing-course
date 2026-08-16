@@ -20,7 +20,8 @@ The **Azure Portal** acts as the primary web dashboard, allowing administrators 
 
 #### Screenshot
 
-![Azure Portal Screenshot](path/to/your-azure-portal-screenshot.png)
+![Uploading image.png…]()
+
 
 ---
 
