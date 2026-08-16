@@ -26,7 +26,8 @@ A Linux Playground was launched using KillerCoda. The following commands were us
 
 
 #### CPU Information
-![CPU Information](path/to/cpu-information-screenshot.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dc32ae06-17ce-47f2-846e-7f0412e97bcd" />
+
 
 #### Memory
 ![Memory](path/to/memory-screenshot.png)
