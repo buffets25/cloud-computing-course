@@ -1,4 +1,3 @@
-<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/6199a8f0-9ae6-4f74-bb92-bb6089815e79" /># Microsoft Azure
 
 ---
 
