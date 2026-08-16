@@ -34,7 +34,8 @@ A Linux Playground was launched using KillerCoda. The following commands were us
 
 
 #### Disk Space
-![Disk Space](path/to/disk-space-screenshot.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1ef63a9d-9f5c-4324-8bd4-966f93409a48" />
+
 
 ---
 
