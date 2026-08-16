@@ -16,6 +16,8 @@ A Linux Playground was launched using KillerCoda. The following commands were us
 ---
 
 ### Terminal Screenshots
+<img width="1353" height="733" alt="image" src="https://github.com/user-attachments/assets/e12cd933-d872-4e06-8f74-c9a37d48c60e" />
+
 
 #### Operating System
 ![Uploading image.png…]()
