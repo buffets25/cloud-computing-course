@@ -20,7 +20,8 @@ The **AWS Management Console** serves as a web-based portal where administrators
 
 #### Screenshot
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bd766b84-305e-41f7-befb-5a0966603caf" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e0000d7e-a2e2-481a-99dd-dddef4a9bb4c" />
+
 
 
 ---
