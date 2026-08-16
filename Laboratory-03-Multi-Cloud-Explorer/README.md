@@ -1,5 +1,4 @@
 # CCM101-BRADLEY A. BOLA BSIT 4-K
-# Mark Vincent Omaoib BSIT 4-K
 
 ## Checkpoint 7 – Continue Your Linux Investigation
 
