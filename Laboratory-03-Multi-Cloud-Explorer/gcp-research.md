@@ -1,4 +1,4 @@
-# Google Cloud Platform (GCP)
+<h1 align="center">Google Cloud Platform (GCP)</h1>
 
 ---
 
