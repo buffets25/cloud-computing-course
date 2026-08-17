@@ -1,4 +1,4 @@
-# Cloud Platform Comparison
+<h1 align="center">Cloud Platform Comparison (AWS)</h1>
 
 ---
 
