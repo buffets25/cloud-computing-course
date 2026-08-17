@@ -1,4 +1,4 @@
-<h1 align="center">Checkpoint 8 – Amazon Web Services (AWS)</h1>
+<h1 align="center">Amazon Web Services (AWS)</h1>
 
 ---
 
