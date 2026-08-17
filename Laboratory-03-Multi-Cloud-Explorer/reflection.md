@@ -1,4 +1,4 @@
-<h1 align="right">Checkpoint 8 – Reflection</h1>
+<h1 align="center">Checkpoint 8 – Reflection</h1>
 
 Throughout this mission, **Amazon Web Services (AWS)** stood out as the most impressive platform due to its extensive ecosystem of cloud services spanning compute, storage, databases, networking, and security. Core services like Amazon EC2, Amazon S3, and Amazon RDS effectively support diverse organizational needs and software architectures.
 
