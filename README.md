@@ -1,4 +1,4 @@
-<h1 align="center">BRADLEY BOLA</h1>
+<h1 align="center">BRADLEY A. BOLA</h1>
 
 Course/Section:[CCM 101-BSIT 4K]
 
