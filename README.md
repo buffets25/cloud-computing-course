@@ -1,4 +1,4 @@
-Name:[Bradley A. Bola]
+<h1 align="center">BRADLEY BOLA  (GCP)</h1>
 
 Course/Section:[CCM 101-BSIT 4K]
 
