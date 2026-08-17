@@ -1,5 +1,5 @@
 
-# Cloud Platform Recommendations
+<h1 align="center">Cloud Platform Recommendations (AWS)</h1>
 
 ---
 
