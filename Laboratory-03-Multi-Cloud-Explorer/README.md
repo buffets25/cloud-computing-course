@@ -1,4 +1,4 @@
-# CCM101-BRADLEY A. BOLA BSIT 4-K
+<h2 align="center">CCM101-BRADLEY A. BOLA BSIT 4-K</h2>
 
 ## Checkpoint 7 – Continue Your Linux Investigation
 
